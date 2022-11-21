@@ -6,3 +6,6 @@ Commit #3 - Practicing Rebasing
 
 Commit #3 - Practicing Rebasing Developer 1
 
+Commit #4 - Developer 1 Squash local commit
+
+Commit #5 - Developer 1 Squash local commit 2
