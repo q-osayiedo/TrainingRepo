@@ -3,3 +3,6 @@ Commit #1 - My commit
 Commit #2 - My commit
 
 Commit #3 - Practicing Rebasing
+
+Commit #3 - Practicing Rebasing Developer 1
+
