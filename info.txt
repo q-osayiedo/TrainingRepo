@@ -2,4 +2,4 @@ Commit #1 - My commit
 
 Commit #2 - My commit
 
-Commit #3 - Developer 1 starting rebase
+Commit #3 - Developer 2 starting rebase
