@@ -10,4 +10,8 @@ Commit #4 - Developer 1 Squash local commit
 
 Commit #5 - Developer 1 Squash local commit 2
 
+Commit #6 - Cherry Pick Demo commit 1
+
+Commit #7 - Cherry Pick Demo commit 2
+
 No more commits after this line
